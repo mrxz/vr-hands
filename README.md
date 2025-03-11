@@ -6,7 +6,7 @@
 # VR Hands
 Collection of VR hand models, licensed under permissive licenses. Be sure to check the `README.md` and `LICENSE.md` files in each directory for the original creators and exact license terms and conditions.
 
-| Cyber Arm |
-|:---------:|
-| <a href="./cyber-arm/README.md"><img src="./cyber-arm/thumbnail.png" width="256px"></a> |
-| Model by Idmenthal ([**CC-BY 4.0**](https://creativecommons.org/licenses/by/4.0/)) |
+| Cyber Arm | WebXR Generic Hand |
+|:---------:|:---------:|
+| <a href="./cyber-arm/README.md"><img src="./cyber-arm/thumbnail.png" width="256px"></a> | <a href="./generic-hand/README.md"><img src="./generic-hand/thumbnail.png" width="256px"></a> |
+| Model by Idmenthal ([**CC-BY 4.0**](https://creativecommons.org/licenses/by/4.0/)) | Copyright (c) 2019 Amazon ([**MIT**](https://github.com/immersive-web/webxr-input-profiles/blob/0be92ac42bf72ae4de9510969fe15f400bccc2b7/packages/assets/LICENSE.md)) |
